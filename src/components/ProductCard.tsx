@@ -28,7 +28,7 @@ export function ProductCard({ title, description, price, imageUrl }: ProductCard
         
         <button className="w-full bg-indigo-600 text-white px-4 py-2 rounded-lg flex items-center justify-center gap-2 hover:bg-indigo-700 transition-colors">
           <ShoppingCart className="w-5 h-5" />
-          <span>Add to Cart</span>
+          <span>Buy Now</span>
         </button>
       </div>
     </div>
